@@ -14,9 +14,9 @@
 - 👯 I’m looking to collaborate with other Coder.
 - 🥅 2022 Goals: Learn more about web3.
   - Blockchain Technology.
-  2. Web Development.
-  3. App Development.
-  4. Software Developer.
+  - Web Development.
+  - App Development.
+  - Software Developer.
 - ⚡ Fun fact: I love to play Guitar and Play Football.😂
 
 ### Connect with me:
