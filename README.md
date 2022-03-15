@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other Coder.
 - 🥅 2022 Goals: Learn more about web3.
-  1. Blockchain Technology.
+  - Blockchain Technology.
   2. Web Development.
   3. App Development.
   4. Software Developer.
