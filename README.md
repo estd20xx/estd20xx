@@ -8,12 +8,16 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I Am Learner , Coder , Web Developer.!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning everything. 🤣
+- 👯 I’m looking to collaborate with other Coder.
+- 🥅 2022 Goals: Learn more about web3.
+  1. Blockchain Technology.
+  2. Web Development.
+  3. App Development.
+  4. Software Developer.
+- ⚡ Fun fact: I love to play Guitar and Play Football.😂
 
 ### Connect with me:
 
