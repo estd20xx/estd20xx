@@ -13,7 +13,7 @@
   - Web Development.
   - App Development.
   - Software Developer.
-- ⚡ Fun fact: I love to play Guitar and Play Football.😂
+- ⚡ I love to play Guitar and Play Football.😂
 
 ### Connect with me:
 
