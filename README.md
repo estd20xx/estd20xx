@@ -13,7 +13,7 @@ Helps to embed to the image into the main page
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sushant.exe_#gh-dark-mode-only) -->
 
 <img align="right"  alt="Coding" width="45%" src="https://th.bing.com/th/id/R.f9182cf9d282abe4d5850acd30712073?rik=qLiwfCzz9ffCIg&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f4%2fCoder-PNG-HD.png&ehk=ne8L0CBU000RdnTDKIa%2fklu1jzsbQUbAWkGVjgCaob0%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1">
-
+<br><br>
 ##
 - 👯 I’m looking to collaborate with other Coder.<br>
 - 🥅 2022 Goals: Learn more about web3.<br>
