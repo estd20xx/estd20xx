@@ -30,8 +30,6 @@ Helps to embed to the image into the main page
 ## COnnect with me
 
 
-
-
-
 [![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=estd20xx&theme=redical)](https://github.com/estd20xx/github-readme-activity-graph)
 
+<a href="https://github.com/estd20xx?tab=followers"><img src="https://img.shields.io/github/followers/estd20xx?label=Followers&style=social" alt="GitHub Badge"></a>
