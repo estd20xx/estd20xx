@@ -33,5 +33,5 @@ Helps to embed to the image into the main page
 
 
 
-[![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=estd20xx&theme=dracula)](https://github.com/estd20xx/github-readme-activity-graph)
+[![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=estd20xx&theme=redical)](https://github.com/estd20xx/github-readme-activity-graph)
 
