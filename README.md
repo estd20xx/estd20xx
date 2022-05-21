@@ -19,14 +19,14 @@ Helps to embed to the image into the main page
 
 
 
-<!-- - 👯 I’m looking to collaborate with other Coder.<br>
+- 👯 I’m looking to collaborate with other Coder.<br>
 - 🥅 2022 Goals: Learn more about web3.<br>
   - Blockchain Technology.<br>
   - Web Development.<br>
   - App Development.<br>
   - Software Developer.<br>
 - ⚡ I love to play Guitar and Play Football.😂
- -->
+
 
 ## Connect with me:
 
