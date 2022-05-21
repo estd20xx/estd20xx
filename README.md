@@ -1,5 +1,6 @@
 # Hi there, I'm Sushant 👋 
-
+  ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=estd20xx&show_icons=true&theme=radical)
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estd20xx&show_icons=true&locale=en&layout=compact" alt="estd20xx" />
 
 <!-- 
 Helps to embed to the image into the main page
@@ -31,6 +32,6 @@ Helps to embed to the image into the main page
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sushant.exe_#gh-dark-mode-only)
   <summary>:zap: GitHub Stats</summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estd20xx&show_icons=true&locale=en&layout=compact" alt="estd20xx" />
 
-  ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=estd20xx&show_icons=true&theme=radical)
+
+
