@@ -19,15 +19,19 @@ Helps to embed to the image into the main page
 
 <img align="right"  alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👯 I’m looking to collaborate with other Coder.
+<!-- - 👯 I’m looking to collaborate with other Coder.
 - 🥅 2022 Goals: Learn more about web3.
   - Blockchain Technology.
   - Web Development.
   - App Development.
   - Software Developer.
-- ⚡ I love to play Guitar and Play Football.😂
+- ⚡ I love to play Guitar and Play Football.😂 -->
 
 ## COnnect with me
 
 
+
+
+
+[![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=estd20xx&theme=dracula)](https://github.com/estd20xx/github-readme-activity-graph)
 
