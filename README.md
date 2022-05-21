@@ -1,5 +1,5 @@
 # Hi there, I'm Sushant 👋 
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=estd20xx&show_icons=true&theme=radical" />
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=estd20xx&show_icons=true&theme=radical" />
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=estd20xx&show_icons=true&locale=en&layout=compact" alt="estd20xx" />
 
 <!-- 
