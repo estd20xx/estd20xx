@@ -7,7 +7,6 @@
 
 ## I Am Learner , Coder , Web Developer.!!
 
-- 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other Coder.
 - 🥅 2022 Goals: Learn more about web3.
   - Blockchain Technology.
