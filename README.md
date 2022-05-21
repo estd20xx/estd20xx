@@ -1,8 +1,8 @@
 # Hi there, I'm Sushant 👋 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sushant_rpm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Sushant_rpm)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20views&color=129e00&style=plastic" alt="estd20xx" /> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/sushant_rpm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Sushant_rpm)<p align="left"> <img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20views&color=129e00&style=plastic" alt="estd20xx" /> </p>
+
 
 
 ## I Am Learner , Coder , Web Developer.!!
