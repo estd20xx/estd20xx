@@ -23,9 +23,7 @@ Helps to embed to the image into the main page
   - Software Developer.<br>
 - ⚡ I love to play Guitar and Play Football.😂
 
-
-
-
+<br><br><br>
 ## Connect with me:
 
 <a href = "https://www.linkedin.com/in/sushant-khadka5/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
