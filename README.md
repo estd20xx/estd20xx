@@ -1,6 +1,10 @@
 # Hi there, I'm Sushant 👋 
 
 
+<!-- 
+Helps to embed to the image into the main page
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="https://www.hdnicewallpapers.com/Walls/Normal/Abstract/Abstract_Image.jpg" /></a></p> -->
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/sushant_rpm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Sushant_rpm)<p align="left"> <img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20views&color=129e00&style=plastic" alt="estd20xx" /> </p>
 
 
