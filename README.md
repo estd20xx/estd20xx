@@ -15,8 +15,6 @@ Helps to embed to the image into the main page
 
 
 
-<img align="left"  alt="Coding" width="40%" src="https://th.bing.com/th/id/R.f9182cf9d282abe4d5850acd30712073?rik=qLiwfCzz9ffCIg&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f4%2fCoder-PNG-HD.png&ehk=ne8L0CBU000RdnTDKIa%2fklu1jzsbQUbAWkGVjgCaob0%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1">
-
 
 
 - 👯 I’m looking to collaborate with other Coder.<br>
@@ -27,6 +25,8 @@ Helps to embed to the image into the main page
   - Software Developer.<br>
 - ⚡ I love to play Guitar and Play Football.😂
 
+
+<img align="left"  alt="Coding" width="40%" src="https://th.bing.com/th/id/R.f9182cf9d282abe4d5850acd30712073?rik=qLiwfCzz9ffCIg&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f4%2fCoder-PNG-HD.png&ehk=ne8L0CBU000RdnTDKIa%2fklu1jzsbQUbAWkGVjgCaob0%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1">
 
 ## Connect with me:
 
