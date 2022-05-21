@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 # Hi there, I'm Sushant 👋 [<img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20views&color=129e00&style=plastic" alt="estd20xx" />] </p>
 
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=estd20xx&show_icons=true&theme=radical" />
@@ -16,8 +17,8 @@ Helps to embed to the image into the main page
 
 
 
-## I Am Learner , Coder , Web Developer.!!
-<pre>
+<img align="right"  alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 👯 I’m looking to collaborate with other Coder.
 - 🥅 2022 Goals: Learn more about web3.
   - Blockchain Technology.
@@ -25,7 +26,8 @@ Helps to embed to the image into the main page
   - App Development.
   - Software Developer.
 - ⚡ I love to play Guitar and Play Football.😂
-</pre>
+
+## COnnect with me
 
 
 
