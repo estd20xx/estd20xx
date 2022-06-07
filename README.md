@@ -35,7 +35,17 @@ Helps to embed to the image into the main page
 
 
 [![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=estd20xx&theme=redical)](https://github.com/estd20xx/github-readme-activity-graph)
+<br><br>
+## People Connected With Me
+<table>
+ <tr>
+     <td align="center">
+        <a href="https://github.com/FunkyRabbitt">
+            <img src="https://avatars.githubusercontent.com/u/105781110?s=460&u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" width="100px;" alt=""/>
+            <br />
+            <sub><b>FunkyRabbitt</b></sub>
+        </a>
+    </td>
+ </tr>
+</table
 
-
-
-<!-- <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"> -->
