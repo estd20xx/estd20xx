@@ -1,7 +1,8 @@
-<p align="center">
+<!-- --Animation Work -->
+<!-- <p align="center">
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a align="center" href="https://github.com/estd20xx/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=cursive&size=18&duration=4000&color=F70D5D&vCenter=true&width=590&lines=+Intermediate+C+Developer.;Intermediate+C%2B%2B+Developer.;Done+Lots+of+Small+Project.;2%2B+Years+Of+Experience+In+Programming.;Experienced+UI%2FUX+Designer.;Having+Sound+Knowledge+of+UI+Development.)"></a>
 </p>
-
+ -->
  ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi there, It's me Sushant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> [<img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20views&color=129e00&style=plastic"/>]</h1></p>
 
