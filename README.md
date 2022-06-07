@@ -189,6 +189,7 @@ Helps to embed to the image into the main page
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+              <p align="left">
               <h1 align="center">Some Projects:</h1>
               <a href="https://github.com/Estd20xx/Youtube-Video-Downloader">
   <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=estd20xx&repo=Youtube-Video-Downloader&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
@@ -198,4 +199,5 @@ Helps to embed to the image into the main page
 </a>
  <a href="https://github.com/Estd20xx/Calculator"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=estd20xx&repo=Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
+              </p>
               
