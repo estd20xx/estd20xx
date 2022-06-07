@@ -1,5 +1,5 @@
  ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi there, I'm Sushant 👋 [<img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20views&color=129e00&style=plastic"/>]</h1></p>
+<h1 align="center">Hi there, I'm Sushant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> [<img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20views&color=129e00&style=plastic"/>]</h1></p>
 
   <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=estd20xx&show_icons=true&theme=radical" />
   <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=estd20xx&show_icons=true&locale=en&layout=compact" alt="estd20xx" />
