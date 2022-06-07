@@ -192,12 +192,12 @@ Helps to embed to the image into the main page
               <p align="left">
               <h1 align="center">Some Projects:</h1>
               <a href="https://github.com/Estd20xx/Youtube-Video-Downloader">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=estd20xx&repo=Youtube-Video-Downloader&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=estd20xx&repo=Youtube-Video-Downloader&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
               <a href="https://github.com/Estd20xx/Watch_using-html-css-javascript-">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=estd20xx&repo=Watch_using-html-css-javascript-&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=estd20xx&repo=Watch_using-html-css-javascript-&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
- <a href="https://github.com/Estd20xx/Calculator"><img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=estd20xx&repo=Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+ <a href="https://github.com/Estd20xx/Calculator"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=estd20xx&repo=Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
 </p>
 
