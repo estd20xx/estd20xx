@@ -7,7 +7,7 @@
 <h1 align="center">Hi there, It's me Sushant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> [<img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20views&color=129e00&style=plastic"/>]</h1></p>
 
   <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=estd20xx&show_icons=true&theme=radical" />
-  <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Estd20xx&&langs_count=8&show_icons=true&locale=en&layout=compact" alt="estd20xx" />
+  <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Estd20xx&&langs_count=20&show_icons=true&locale=en&layout=compact" alt="estd20xx" />
 
 <!-- 
 Helps to embed to the image into the main page
