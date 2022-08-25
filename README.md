@@ -14,7 +14,7 @@ Helps to embed to the image into the main page
 <p align="center"><a href="https://estd20xx.github.io"><img width="80%" src="https://www.hdnicewallpapers.com/Walls/Normal/Abstract/Abstract_Image.jpg" /></a></p> -->
 
 <!-- <img src="https://img.shields.io/twitter/follow/sushant_rpm?color=1DA1F2&logo=twitter&style=for-the-badge"/> [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sushant-khadka5/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sushant-khadka5/#gh-light-mode-only#gh-dark-mode-only)[![website](./img/instagram-light.svg)](https://www.instagram.com/sushant.exe_#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sushant-khadka5/#gh-light-mode-only#gh-dark-mode-only)[![website](./img/instagram-light.svg)](https://www.instagram.com/namelesssnerd#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sushant.exe_#gh-dark-mode-only) -->
 
 <img align="right"  alt="Coding" width="45%" src="https://th.bing.com/th/id/R.f9182cf9d282abe4d5850acd30712073?rik=qLiwfCzz9ffCIg&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f4%2fCoder-PNG-HD.png&ehk=ne8L0CBU000RdnTDKIa%2fklu1jzsbQUbAWkGVjgCaob0%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1">
