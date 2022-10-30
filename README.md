@@ -3,7 +3,7 @@
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a align="center" href="https://github.com/estd20xx/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=cursive&size=18&duration=4000&color=F70D5D&vCenter=true&width=590&lines=+Intermediate+C+Developer.;Intermediate+C%2B%2B+Developer.;Done+Lots+of+Small+Project.;2%2B+Years+Of+Experience+In+Programming.;Experienced+UI%2FUX+Designer.;Having+Sound+Knowledge+of+UI+Development.)"></a>
 </p>
  -->
- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+ ![MasterHead](https://cdn.discordapp.com/attachments/996756361281028136/1036178411028230155/Picsart_22-10-30_13-07-32-171.jpg)
 <h1 align="center">Hi there, It's me Sushant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> [<img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20Visits&color=129e00&style=plastic"/>]</h1></p>
 
   <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=estd20xx&show_icons=true&theme=radical" />
