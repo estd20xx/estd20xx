@@ -30,7 +30,7 @@ Helps to embed to the image into the main page
 - ⚡ I love to play Guitar and Play Football.😂
 
 <!-- <br><a href="https://github.com/estd20xx?tab=followers"><img src="https://img.shields.io/github/followers/estd20xx?label=Followers&style=social" alt="GitHub Badge"></a><br> -->
-<br><a href="https://github.com/estd20xx?tab=followers"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/estd20xx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+<br><a href="https://github.com/NamelesssNerd?tab=followers"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/NamelesssNerd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 ## Connect with me:
 
 <a href = "https://www.linkedin.com/in/sushant-khadka5/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
