@@ -59,8 +59,7 @@ Helps to embed to the image into the main page
 </table
 
 
-
-[![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=estd20xx&theme=redical)](https://github.com/estd20xx/github-readme-activity-graph)
+[![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=NamelesssNerd&theme=redical)](https://github.com/NamelesssNerd/github-readme-activity-graph)
 <br><br>
 
 
