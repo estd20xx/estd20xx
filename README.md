@@ -6,8 +6,8 @@
  ![MasterHead](https://cdn.discordapp.com/attachments/996756361281028136/1036178411028230155/Picsart_22-10-30_13-07-32-171.jpg)
 <h1 align="center">Hi there, It's me Sushant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> [<img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20Visits&color=129e00&style=plastic"/>]</h1></p>
 
-  <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=estd20xx&show_icons=true&theme=radical" />
-  <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Estd20xx&&langs_count=10&show_icons=true&locale=en&layout=compact" alt="estd20xx" />
+  <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=NamelesssNerd&show_icons=true&theme=radical" />
+  <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NamelesssNerd&&langs_count=10&show_icons=true&locale=en&layout=compact" alt="NamelesssNerd" />
 
 <!-- 
 Helps to embed to the image into the main page
@@ -70,16 +70,16 @@ Helps to embed to the image into the main page
 <!--  </a> -->
 <p align="left">
 <h1 align="center">Some Projects:</h1>
-<a href="https://github.com/Estd20xx/Youtube-Video-Downloader">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=estd20xx&repo=Youtube-Video-Downloader&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+<a href="https://github.com/NamelesssNerd/NumberGuessingGame">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=NumberGuessingGame&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
-              <a href="https://github.com/Estd20xx/Watch_using-html-css-javascript-">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=estd20xx&repo=Watch_using-html-css-javascript-&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+              <a href="https://github.com/NamelesssNerd/TicTacToe-Javascript">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=TicTacToe-Javascript&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
 </p>
 <p align="left">
- <a href="https://github.com/Estd20xx/Calculator"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=estd20xx&repo=Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+ <a href="https://github.com/NamelesssNerd/If-I-Create-Spotify"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=If-I-Create-Spotify&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
- <a href="https://github.com/Estd20xx/Search_Bar "><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=estd20xx&repo=Search_Bar&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+ <a href="https://github.com/NamelesssNerd/Search_Bar "><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=Search_Bar&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
 </p>
