@@ -59,7 +59,7 @@ Helps to embed to the image into the main page
         <a href="https://github.com/maheessh">
             <img src="https://avatars.githubusercontent.com/u/101551694?s=460&u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>AbhishekBasnet</b></sub>
+            <sub><b>maheessh</b></sub>
         </a>
     </td>
             <td align="center">
