@@ -62,6 +62,13 @@ Helps to embed to the image into the main page
             <sub><b>subhash162</b></sub>
         </a>
     </td>
+     <td align="center">
+        <a href="https://github.com/devtazz12">
+            <img src="https://avatars.githubusercontent.com/u/105719259?s=460&u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" width="100px;" alt=""/>
+            <br />
+            <sub><b>devtazz12</b></sub>
+        </a>
+    </td>
  </tr>
 </table
 
