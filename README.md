@@ -38,7 +38,7 @@ Helps to embed to the image into the main page
 <a href = "https://www.instagram.com/namelesssnerd/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
-## People Connected With <a href="https://github.com/estd20xx">Me</a>
+## People Connected With <a href="https://github.com/NameLesssNerd">Me</a>
 <table>
  <tr>
      <td align="center">
