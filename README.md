@@ -72,8 +72,8 @@ Helps to embed to the image into the main page
  </tr>
 </table
 
-
-[![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=NamelesssNerd&theme=redical)](https://github.com/NamelesssNerd/github-readme-activity-graph)
+<a href="https://github.com/NamelesssNerd/github-stats-transparent">
+<!-- [![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=NamelesssNerd&theme=redical)](https://github.com/NamelesssNerd/github-readme-activity-graph) -->
 <br><br>
 
 
