@@ -6,8 +6,12 @@
  <a href="https://profile.codersrank.io/user/namelesssnerd/">![MasterHead](https://cdn.discordapp.com/attachments/996756361281028136/1036178411028230155/Picsart_22-10-30_13-07-32-171.jpg)</a>
 <h1 align="center">Hi there, It's me Sushant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> [<img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20Visits&color=129e00&style=plastic"/>]</h1></p>
 
-  <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=NamelesssNerd&show_icons=true&theme=radical" />
-  <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NamelesssNerd&&langs_count=10&show_icons=true&locale=en&layout=compact" alt="NamelesssNerd" />
+<!--   <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=NamelesssNerd&show_icons=true&theme=radical" /> -->
+  <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=NamelesssNerd&count_private=true&show_icons=true&theme=radical" />
+<!--   <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NamelesssNerd&&langs_count=10&show_icons=true&locale=en&layout=compact" alt="NamelesssNerd" /> -->
+ 
+   <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamelesssNerd&layout=compact&&langs_count=10&show_icons=true&locale=en" alt="NamelesssNerd" />
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- 
 Helps to embed to the image into the main page
