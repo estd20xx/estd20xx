@@ -1,0 +1,2 @@
+- name: Write File
+  uses: DamianReeves/write-file-action@v1.2
