@@ -89,9 +89,9 @@ Helps to embed to the image into the main page
 
 
 <p align="center">
-<!--   <a href="https://github.com/Estd20xx"> -->
-<!--     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushant's streak" src="http://github-readme-streak-stats.herokuapp.com?user=NamelesssNerd&theme=radical"/> -->
-<!--  </a> -->
+  <a href="https://github.com/Estd20xx">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushant Khadka's streak" src="http://github-readme-streak-stats.herokuapp.com?user=NamelesssNerd&theme=radical"/>
+ </a>
 <p align="left">
 <h1 align="center">Some Projects:</h1>
 <a href="https://github.com/NamelesssNerd/Covid19-realtime">
