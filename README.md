@@ -47,9 +47,9 @@ Helps to embed to the image into the main page
  <tr>
   <td align="center">
         <a href="https://github.com/Youfavnerd">
-            <img src="https://avatars.githubusercontent.com/u/121504319?s=600&u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" width="100px;" alt=""/>
+            <img src="https://avatars.githubusercontent.com/u/121504319?s=600&u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" width="200px;" alt=""/>
             <br />
-            <sub><b>FunkyRabbitt</b></sub>
+            <sub><b>Youfavnerd</b></sub>
         </a>
     </td>
      <td align="center">
