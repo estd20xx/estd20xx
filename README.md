@@ -84,13 +84,13 @@ Helps to embed to the image into the main page
 </table
 
 <!-- ![](https://raw.githubusercontent.com/NamelesssNerd/github-stats-transparent/output/generated/overview.svg) -->
-<!-- [![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=NamelesssNerd&theme=redical)](https://github.com/NamelesssNerd/github-readme-activity-graph) -->
+[![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=NamelesssNerd&theme=redical)](https://github.com/NamelesssNerd/github-readme-activity-graph)
 <br><br>
 
 
 <p align="center">
 <!--   <a href="https://github.com/Estd20xx"> -->
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushant's streak" src="http://github-readme-streak-stats.herokuapp.com?user=NamelesssNerd&theme=radical"/>
+<!--     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushant's streak" src="http://github-readme-streak-stats.herokuapp.com?user=NamelesssNerd&theme=radical"/> -->
 <!--  </a> -->
 <p align="left">
 <h1 align="center">Some Projects:</h1>
