@@ -84,8 +84,8 @@ Helps to embed to the image into the main page
 </table
 
 ![](https://raw.githubusercontent.com/NamelesssNerd/github-stats-transparent/output/generated/overview.svg)
-[![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=NamelesssNerd&theme=redical)](https://github.com/NamelesssNerd/github-readme-activity-graph)
-<br><br>
+<!-- [![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=NamelesssNerd&theme=redical)](https://github.com/NamelesssNerd/github-readme-activity-graph) -->
+<!-- <br><br> -->
 
 
 <p align="center">
