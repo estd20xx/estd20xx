@@ -45,6 +45,13 @@ Helps to embed to the image into the main page
 ## People Connected With <a href="https://github.com/NameLesssNerd">Me</a>
 <table>
  <tr>
+  <td align="center">
+        <a href="https://github.com/Youfavnerd">
+            <img src="https://avatars.githubusercontent.com/u/121504319?s=600&u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" width="100px;" alt=""/>
+            <br />
+            <sub><b>FunkyRabbitt</b></sub>
+        </a>
+    </td>
      <td align="center">
         <a href="https://github.com/FunkyRabbitt">
             <img src="https://avatars.githubusercontent.com/u/105781110?s=460&u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" width="100px;" alt=""/>
