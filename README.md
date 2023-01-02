@@ -95,19 +95,19 @@ Helps to embed to the image into the main page
 <p align="left">
 <h1 align="center">Some Projects:</h1>
 <a href="https://github.com/NamelesssNerd/Covid19-realtime">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=Covid19-realtime&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=Covid19-realtime&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
 </a>
-<!--       (https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats) -->
+<!--       (https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=github-readme-stats) -->
        
 <a href="https://github.com/NamelesssNerd/Spotify">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=Spotify&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=Spotify&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
 </a>
        
        
 </p>
 <p align="left">
- <a href="https://github.com/NamelesssNerd/Country_info_in_react"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=Country_info_in_react&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+ <a href="https://github.com/NamelesssNerd/Country_info_in_react"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=Country_info_in_react&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
 </a>
- <a href="https://github.com/NamelesssNerd/TicTacToe_Javascript"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=TicTacToe_Javascript&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+ <a href="https://github.com/NamelesssNerd/TicTacToe_Javascript"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=TicTacToe_Javascript&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&" />
 </a>
 </p>
