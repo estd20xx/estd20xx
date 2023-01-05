@@ -80,6 +80,13 @@ Helps to embed to the image into the main page
             <sub><b>devtazz12</b></sub>
         </a>
     </td>
+        <td align="center">
+        <a href="https://github.com/kattelbiplov">
+            <img src="https://avatars.githubusercontent.com/u/86552101?s=460&u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" width="100px;" alt=""/>
+            <br />
+            <sub><b>kattelbiplov</b></sub>
+        </a>
+    </td>
  </tr>
 </table
 
