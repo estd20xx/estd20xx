@@ -120,3 +120,8 @@ Helps to embed to the image into the main page
  <a href="https://github.com/NamelesssNerd/TicTacToe_Javascript"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=TicTacToe_Javascript&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&" />
 </a>
 </p>
+
+
+
+## Full Code:
+![movie](https://user-images.githubusercontent.com/87481819/214884309-0e3be693-1210-4cf1-bed2-773a7bee4da0.png)
