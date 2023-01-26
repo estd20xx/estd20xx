@@ -124,4 +124,4 @@ Helps to embed to the image into the main page
 
 
 ## Full Code:
-![movie](https://user-images.githubusercontent.com/87481819/214884309-0e3be693-1210-4cf1-bed2-773a7bee4da0.png)
+<!-- ![movie](https://user-images.githubusercontent.com/87481819/214884309-0e3be693-1210-4cf1-bed2-773a7bee4da0.png) -->
