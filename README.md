@@ -11,7 +11,7 @@
 <!--   <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=NamelesssNerd&show_icons=true&theme=radical" /> -->
 
   <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=NamelesssNerd&show_icons=true&theme=radical" />
-<!--   <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NamelesssNerd&&langs_count=10&show_icons=true&locale=en&layout=compact" alt="NamelesssNerd" /> -->
+<!--   <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NamelesssNerd&&langs_count=20&show_icons=true&locale=en&layout=compact" alt="NamelesssNerd" /> -->
  
    <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamelesssNerd&layout=compact&&langs_count=10" />
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
