@@ -24,7 +24,7 @@ Helps to embed to the image into the main page
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sushant-khadka5/#gh-light-mode-only#gh-dark-mode-only)[![website](./img/instagram-light.svg)](https://www.instagram.com/namelesssnerd#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sushant.exe_#gh-dark-mode-only) -->
 
-<img align="right"  alt="Coding" width="45%" src="https://th.bing.com/th/id/R.f9182cf9d282abe4d5850acd30712073?rik=qLiwfCzz9ffCIg&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f4%2fCoder-PNG-HD.png&ehk=ne8L0CBU000RdnTDKIa%2fklu1jzsbQUbAWkGVjgCaob0%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1">
+<img align="right"  alt="Coding" width="45%" src="https://github.com/TheCrossLegCoder/TheCrossLegCoder/blob/main/assets/Right_Side.gif?raw=true">
 
 <br><br>
 ## <br><br>
@@ -104,6 +104,7 @@ Helps to embed to the image into the main page
  </a> -->
 <p align="left">
 <h1 align="center">Some Projects:</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <a href="https://github.com/NamelesssNerd/Covid19-realtime">
 <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=Covid19-realtime&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
 </a>
