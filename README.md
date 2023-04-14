@@ -8,7 +8,7 @@
 <a href="https://profile.codersrank.io/user/namelesssnerd/">
 <!-- ![MasterHead](https://cdn.discordapp.com/attachments/996756361281028136/1036178411028230155/Picsart_22-10-30_13-07-32-171.jpg) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1000&height=300&lines=Software%20Engineer%20|%20+React-Native%20Developer|%20+Full-Stack%20Developer">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1100&height=350&lines=Software%20Engineer%20|%20+React-Native%20Developer|%20+Full-Stack%20Developer">
 </p>
 </a>
 <!-- <h1 align="center">Hi there, It's me Sushant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> [<img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20Visits&color=129e00&style=plastic"/>]</h1></p> -->
@@ -16,7 +16,6 @@
 <!-- <img src="https://gpvc.arturio.dev/NameLesssnerd" alt="profile views">  -->
 
 <!--   <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=NamelesssNerd&show_icons=true&theme=radical" /> -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=NamelesssNerd&show_icons=true&theme=radical" />
 <!--   <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NamelesssNerd&&langs_count=20&show_icons=true&locale=en&layout=compact" alt="NamelesssNerd" /> -->
  
