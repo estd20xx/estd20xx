@@ -16,7 +16,7 @@
 <!-- <img src="https://gpvc.arturio.dev/NameLesssnerd" alt="profile views">  -->
 
 <!--   <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=NamelesssNerd&show_icons=true&theme=radical" /> -->
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=NamelesssNerd&show_icons=true&theme=radical" />
 <!--   <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NamelesssNerd&&langs_count=20&show_icons=true&locale=en&layout=compact" alt="NamelesssNerd" /> -->
  
@@ -110,8 +110,8 @@ Helps to embed to the image into the main page
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushant Khadka's streak" src="http://github-readme-streak-stats.herokuapp.com?user=NamelesssNerd&theme=radical"/>
  </a> -->
 <p align="left">
-<h1 align="center">Some Projects:</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<h1 align="center">Some Projects:</h1>
 <a href="https://github.com/NamelesssNerd/Covid19-realtime">
 <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=Covid19-realtime&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
 </a>
@@ -134,3 +134,4 @@ Helps to embed to the image into the main page
 
 <!-- ## Full Code: -->
 <!-- ![movie](https://user-images.githubusercontent.com/87481819/214884309-0e3be693-1210-4cf1-bed2-773a7bee4da0.png) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
