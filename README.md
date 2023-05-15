@@ -16,10 +16,10 @@
 <!-- <img src="https://gpvc.arturio.dev/NameLesssnerd" alt="profile views">  -->
 
 <!--   <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=NamelesssNerd&show_icons=true&theme=radical" /> -->
-  <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=NamelesssNerd&show_icons=true&theme=radical" />
+  <img align="left" width="52%" src="https://github-readme-stats-git-master-namelesssnerd.vercel.app/api?username=NamelesssNerd&show_icons=true&theme=radical" />
 <!--   <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NamelesssNerd&&langs_count=20&show_icons=true&locale=en&layout=compact" alt="NamelesssNerd" /> -->
  
-   <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamelesssNerd&layout=compact&&langs_count=10" />
+   <img align="left" width="43%" src="https://github-readme-stats-git-master-namelesssnerd.vercel.app/api/top-langs/?username=NamelesssNerd&layout=compact&&langs_count=10" />
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- 
@@ -112,20 +112,20 @@ Helps to embed to the image into the main page
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h1 align="center">Some Projects:</h1>
 <a href="https://github.com/NamelesssNerd/Covid19-realtime">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=Covid19-realtime&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
+<img width="400" src="https://github-readme-stats-git-master-namelesssnerd.vercel.app/api/pin/?username=NamelesssNerd&repo=Covid19-realtime&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
 </a>
 <!--       (https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=github-readme-stats) -->
        
 <a href="https://github.com/NamelesssNerd/Spotify">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=Spotify&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
+<img width="400" src="https://github-readme-stats-git-master-namelesssnerd.vercel.app/api/pin/?username=NamelesssNerd&repo=Spotify&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
 </a>
        
        
 </p>
 <p align="left">
- <a href="https://github.com/NamelesssNerd/Country_info_in_react"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=Country_info_in_react&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
+ <a href="https://github.com/NamelesssNerd/Country_info_in_react"><img width="400" src="https://github-readme-stats-git-master-namelesssnerd.vercel.app/api/pin/?username=NamelesssNerd&repo=Country_info_in_react&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
 </a>
- <a href="https://github.com/NamelesssNerd/TicTacToe_Javascript"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NamelesssNerd&repo=TicTacToe_Javascript&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&" />
+ <a href="https://github.com/NamelesssNerd/TicTacToe_Javascript"><img width="400" src="https://github-readme-stats-git-master-namelesssnerd.vercel.app/api/pin/?username=NamelesssNerd&repo=TicTacToe_Javascript&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&" />
 </a>
 </p>
 
