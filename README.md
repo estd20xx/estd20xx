@@ -104,7 +104,6 @@ Helps to embed to the image into the main page
 <!-- <br><br> -->
        
 # More Info:
-<img  src="https://github-readme-activity-graph.cyclic.app/graph?username=NamelesssNerd&bg_color=050f2c&color=b81eae&line=ff00ae&point=9d3f3f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
 <img width="1350" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NamelesssNerd&theme=algolia" />
 <img align="left" width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NamelesssNerd&theme=algolia" />
 <img align="left" width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NamelesssNerd&theme=algolia" />
