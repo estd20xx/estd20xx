@@ -56,7 +56,7 @@
   <br>
 
 
-  <img src="https://github-readme-stats-namelesssnerd.vercel.app/top-langs/?username=NamelesssNerd&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <img src="https://github-readme-stats-ptjsg1ik6-namelesssnerd.vercel.app/api/top-langs/?username=NamelesssNerd&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
   <a href="https://namelessnerd.com/" target="_blank">
