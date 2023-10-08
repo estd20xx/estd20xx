@@ -44,18 +44,22 @@
   <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
 </div>
 
+
+
+
+
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
-  
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+
+  <img src="https://github-readme-stats-namelesssnerd.vercel.app/api/top-langs/?username=NamelesssNerd&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
-  <a href="https://wakatime.com/@godkingjay" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=godkingjay&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
+  <a href="https://namelessnerd.com/" target="_blank">
+    <img src="https://github-readme-stats-namelesssnerd.vercel.app/api/wakatime?username=NamelesssNerd&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
   </a>
   <br>
   
