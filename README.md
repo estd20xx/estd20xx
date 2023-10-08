@@ -44,10 +44,6 @@
   <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
 </div>
 
-
-
-
-
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
@@ -55,28 +51,34 @@
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
 
-
   <img src="https://namelessnerd-namelesssnerd.vercel.app/api/top-langs?username=NamelesssNerd&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
   <a href="https://namelessnerd.com/" target="_blank">
-    <img src="https://namelessnerd-namelesssnerd.vercel.app/api/wakatime?username=NamelesssNerd&theme=radical&layout=compact" alt="something went wrong" width="540px">
+    <img src="https://wakatime.com/badge/user/018b0e7e-6f88-48df-9a59-5b7be345ce7d.svg" alt="something went wrong" width="540px">
   </a>
   <br>
   
   <h2></h2>
 
-[![wakatime](https://wakatime.com/badge/user/018b0e7e-6f88-48df-9a59-5b7be345ce7d.svg)](https://wakatime.com/@018b0e7e-6f88-48df-9a59-5b7be345ce7d)
 
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
+<div align="center">
+  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=NamelesssNerd&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=NamelesssNerd&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://namelessnerd-namelesssnerd.vercel.app/api?username=NamelesssNerd&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+</div> <br>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamelesssNerd&custom_title=Namelessnerd's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="GodkingJay's Github Activity Graph" width="100%">
+</div>
 
+</br>
 
-
-
-
-
-
+<h2></h2>
 
 
 
