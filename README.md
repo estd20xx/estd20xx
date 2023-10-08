@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1100&height=350&lines=Software%20Engineer%20|%20+React-Native%20Developer|%20+Full-Stack%20Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1100&height=350&lines=Software%20Engineer%20|%20+React-Native%20Developer|%20+Full-Stack%20Developer" width="90%"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 
