@@ -5,11 +5,10 @@
   
 </p>
 
-<div align="center" styele="display: flex;
-    align-items: center;
-    justify-content: space-evenly;">
+<div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1100&height=350&lines=Software%20Engineer%20|%20+React-Native%20Developer|%20+Full-Stack%20Developer" width="90%" height="20px"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Software%20Engineer%20|%20+React-Native%20Developer|%20+Full-Stack%20Developer" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1100&height=350&lines=Software%20Engineer%20|%20+React-Native%20Developer|%20+Full-Stack%20Developer" width="90%" height="20px"/> -->
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 
