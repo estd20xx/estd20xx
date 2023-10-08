@@ -32,16 +32,14 @@
   - Software Developer.<br>
 - ⚡ I love to play Guitar and Play Football.😂
 
-<h2></h2>
-<h2></h2>
+<br/>
+<br/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
   <h2 align="center"> <strong>  What i Mostly do? </strong> </h2>
 <div align="center">
-</div></br>
-
-<h2></h2>
-
+</div>
+<br/>
 <div align="center">
   <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
 </div>
