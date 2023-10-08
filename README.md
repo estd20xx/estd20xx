@@ -44,7 +44,40 @@
   <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
 </div>
 
- 
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+  
+  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
+  <br>
+  
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <br>
+
+  <a href="https://wakatime.com/@godkingjay" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=godkingjay&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
+  </a>
+  <br>
+  
+  <h2></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="https://profile.codersrank.io/user/namelesssnerd/">
 <!-- ![MasterHead](https://cdn.discordapp.com/attachments/996756361281028136/1036178411028230155/Picsart_22-10-30_13-07-32-171.jpg) -->
 <p align="center">
