@@ -33,8 +33,7 @@
 - ⚡ I love to play Guitar and Play Football.😂
 
 <br/>
-<br/>
-<hr height="1px"/>
+<h2></h2>
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
   <h2 align="center"> <strong>  What i Mostly do? </strong> </h2>
