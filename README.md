@@ -54,8 +54,9 @@
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
+https://github-readme-stats-namelesssnerd.vercel.app/
 
-
+<h2>hellow</h2>
   <img src="https://github-readme-stats-ptjsg1ik6-namelesssnerd.vercel.app/api/top-langs/?username=NamelesssNerd&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
