@@ -143,7 +143,7 @@
 
 <div align="center">
   <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
-  <a href="https://www.facebook.com/jarrian.gojar" target="_blank">
+  <a href="https://www.facebook.com/namelessnerd" target="_blank">
     <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
   </a>
   &nbsp
@@ -165,4 +165,4 @@
 </div>
 
 <!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
-<img src="./assets/animated-wave.svg" />
+
