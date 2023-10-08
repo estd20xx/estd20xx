@@ -69,6 +69,7 @@
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=NamelesssNerd&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamelesssNerd&theme=radical" width="45%" alt="streaks graph" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NamelesssNerd&theme=codeSTACKr" alt="NamelesssNerd" /></p>
   <img src="https://namelessnerd-namelesssnerd.vercel.app/api?username=NamelesssNerd&theme=radical&show_icons=true&count_private=true" width="45%" alt="stats graph" />
 </div> <br>
 
