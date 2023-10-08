@@ -111,5 +111,5 @@
 </div>
 
 
-<img src="./assets/animated-wave.svg" />
+<img src="./assets/animated-wave.svg" width="100%" />
 
