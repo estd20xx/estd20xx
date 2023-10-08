@@ -55,11 +55,12 @@
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
 
-  <img src="https://github-readme-stats-namelesssnerd.vercel.app/api/top-langs/?username=NamelesssNerd&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+
+  <img src="https://github-readme-stats-ptjsg1ik6-namelesssnerd.vercel.app/api/top-langs/?username=NamelesssNerd&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
   <a href="https://namelessnerd.com/" target="_blank">
-    <img src="https://github-readme-stats-namelesssnerd.vercel.app/api/wakatime?username=NamelesssNerd&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
+    <img src="https://github-readme-stats-namelesssnerd.vercel.app/api/wakatime?username=NamelesssNerd&theme=radical&layout=compact" alt="something went wrong" width="540px">
   </a>
   <br>
   
