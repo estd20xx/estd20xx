@@ -1,9 +1,45 @@
-<!-- --Animation Work -->
-<!-- <p align="center">
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a align="center" href="https://github.com/estd20xx/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=cursive&size=18&duration=4000&color=F70D5D&vCenter=true&width=590&lines=+Intermediate+C+Developer.;Intermediate+C%2B%2B+Developer.;Done+Lots+of+Small+Project.;2%2B+Years+Of+Experience+In+Programming.;Experienced+UI%2FUX+Designer.;Having+Sound+Knowledge+of+UI+Development.)"></a>
+<img src="./assets/coodingNight.gif" align="middle" alt="Banner" width="100%"/>
+<img src="./assets/borderseparator.gif" width="100%"/>
+
+<p align="center">
+  
 </p>
- -->
- <h1 align="center">Hi there, It's me Sushant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> [<img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20Visits&color=129e00&style=plastic"/>]</h1></p>
+
+
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1100&height=350&lines=Software%20Engineer%20|%20+React-Native%20Developer|%20+Full-Stack%20Developer"/>
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+</div>
+
+<img src="./assets/borderseparator.gif" width="100%"/>
+
+<div align="center">
+  <p><b>Profile Views</b></p>
+  <img src="https://profile-counter.glitch.me/estd20xx/count.svg" />
+<img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20Visits&color=129e00&style=plastic"/>
+</div>
+
+<h2></h2>
+
+
+<img align="right"  alt="Coding" width="45%" src="./assets//catCooding.gif">
+<br><br>
+## <br><br>
+- 👯 I’m looking to collaborate with other Coder.<br>
+- 🥅 2022 Goals: Learn more about web3.<br>
+  - Blockchain Technology.<br>
+  - Web Development.<br>
+  - App Development.<br>
+  - Software Developer.<br>
+- ⚡ I love to play Guitar and Play Football.😂
+
+
+
+
+
+
+ <h1 align="center">Hi there, It's me Sushant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> []</h1></p>
  
 <a href="https://profile.codersrank.io/user/namelesssnerd/">
 <!-- ![MasterHead](https://cdn.discordapp.com/attachments/996756361281028136/1036178411028230155/Picsart_22-10-30_13-07-32-171.jpg) -->
@@ -30,17 +66,6 @@ Helps to embed to the image into the main page
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sushant-khadka5/#gh-light-mode-only#gh-dark-mode-only)[![website](./img/instagram-light.svg)](https://www.instagram.com/namelesssnerd#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sushant.exe_#gh-dark-mode-only) -->
 
-<img align="right"  alt="Coding" width="45%" src="https://github.com/TheCrossLegCoder/TheCrossLegCoder/blob/main/assets/Right_Side.gif?raw=true">
-
-<br><br>
-## <br><br>
-- 👯 I’m looking to collaborate with other Coder.<br>
-- 🥅 2022 Goals: Learn more about web3.<br>
-  - Blockchain Technology.<br>
-  - Web Development.<br>
-  - App Development.<br>
-  - Software Developer.<br>
-- ⚡ I love to play Guitar and Play Football.😂
 
 <!-- <br><a href="https://github.com/estd20xx?tab=followers"><img src="https://img.shields.io/github/followers/estd20xx?label=Followers&style=social" alt="GitHub Badge"></a><br> -->
 <br><a href="https://github.com/NamelesssNerd?tab=followers"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/NamelesssNerd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
