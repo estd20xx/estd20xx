@@ -5,8 +5,9 @@
   
 </p>
 
-
-<div align="center">
+<div align="center" styele="display: flex;
+    align-items: center;
+    justify-content: space-evenly;">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1100&height=350&lines=Software%20Engineer%20|%20+React-Native%20Developer|%20+Full-Stack%20Developer" width="90%" height="20px"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
@@ -22,7 +23,6 @@
 
 <h2></h2>
 
-
 <img align="right"  alt="Coding" width="45%" src="./assets//catCooding.gif">
 <br><br>
 ## <br><br>
@@ -33,11 +33,6 @@
   - App Development.<br>
   - Software Developer.<br>
 - ⚡ I love to play Guitar and Play Football.😂
-
-
-
-
-
 
  <h1 align="center">Hi there, It's me Sushant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> []</h1></p>
  
@@ -58,7 +53,7 @@
    <img align="left" width="43%" src="https://github-readme-stats-git-master-namelesssnerd.vercel.app/api/top-langs/?username=NamelesssNerd&layout=compact&&langs_count=10" />
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- 
+<!--
 Helps to embed to the image into the main page
 <p align="center"><a href="https://estd20xx.github.io"><img width="80%" src="https://www.hdnicewallpapers.com/Walls/Normal/Abstract/Abstract_Image.jpg" /></a></p> -->
 
@@ -66,17 +61,18 @@ Helps to embed to the image into the main page
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sushant-khadka5/#gh-light-mode-only#gh-dark-mode-only)[![website](./img/instagram-light.svg)](https://www.instagram.com/namelesssnerd#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sushant.exe_#gh-dark-mode-only) -->
 
-
 <!-- <br><a href="https://github.com/estd20xx?tab=followers"><img src="https://img.shields.io/github/followers/estd20xx?label=Followers&style=social" alt="GitHub Badge"></a><br> -->
+
 <br><a href="https://github.com/NamelesssNerd?tab=followers"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/NamelesssNerd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+
 ## Connect with me:
 
 <a href = "https://www.linkedin.com/in/sushant-khadka5/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Estd20xx"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/namelesssnerd/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-
 ## People Connected With <a href="https://github.com/NameLesssNerd">Me</a>
+
 <table>
  <tr>
   <td align="center">
@@ -127,8 +123,9 @@ Helps to embed to the image into the main page
 <!-- [(https://raw.githubusercontent.com/NamelesssNerd/github-stats-transparent/output/generated/overview.svg)] -->
 <!-- [![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=NamelesssNerd&theme=redical)](https://github.com/NamelesssNerd/github-readme-activity-graph) -->
 <!-- <br><br> -->
-       
+
 # More Info:
+
 <img width="1350" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NamelesssNerd&theme=algolia" />
 <img align="left" width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NamelesssNerd&theme=algolia" />
 <img align="left" width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NamelesssNerd&theme=algolia" />
@@ -160,8 +157,7 @@ Helps to embed to the image into the main page
 </a>
 </p>
 
-
-
 <!-- ## Full Code: -->
 <!-- ![movie](https://user-images.githubusercontent.com/87481819/214884309-0e3be693-1210-4cf1-bed2-773a7bee4da0.png) -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
