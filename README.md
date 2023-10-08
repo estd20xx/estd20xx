@@ -1,15 +1,14 @@
+<a href="https://profile.codersrank.io/user/namelesssnerd/">
 <img src="./assets/coodingNight.gif" align="middle" alt="Banner" width="100%"/>
+</a>
 <img src="./assets/borderseparator.gif" width="100%"/>
 
-<p align="center">
-  
-</p>
-
 <div align="center">
+<a href="https://profile.codersrank.io/user/namelesssnerd/">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Software%20Engineer%20|%20+React-Native%20Developer|%20+Full-Stack%20Developer" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
-  <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1100&height=350&lines=Software%20Engineer%20|%20+React-Native%20Developer|%20+Full-Stack%20Developer" width="90%" height="20px"/> -->
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+</a>
 </div>
 
 <img src="./assets/borderseparator.gif" width="100%"/>
@@ -24,7 +23,7 @@
 
 <img align="right"  alt="Coding" width="45%" src="./assets//catCooding.gif">
 <br><br>
-## <br><br>
+<br><br>
 - 👯 I’m looking to collaborate with other Coder.<br>
 - 🥅 2022 Goals: Learn more about web3.<br>
   - Blockchain Technology.<br>
@@ -33,7 +32,18 @@
   - Software Developer.<br>
 - ⚡ I love to play Guitar and Play Football.😂
 
- <h1 align="center">Hi there, It's me Sushant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> []</h1></p>
+
+<div align="center">
+  <h2> <strong>  What i Mostly do? </strong> <img src="./assets/borderseparator.gif"/> </h2>
+  
+</div></br>
+
+<h2></h2>
+
+<div align="center">
+  <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
+</div>
+
  
 <a href="https://profile.codersrank.io/user/namelesssnerd/">
 <!-- ![MasterHead](https://cdn.discordapp.com/attachments/996756361281028136/1036178411028230155/Picsart_22-10-30_13-07-32-171.jpg) -->

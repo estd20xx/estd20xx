@@ -35,41 +35,17 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
-<div align="center">
-  <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2>
-  <br>
 
-  <a href="https://www.codewars.com/users/godkingjay" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
-  </a>
 
-  <a href="https://www.coursera.org/user/35d06074c7104e91a2ec94c25ea37db4" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
-  </a>
 
-  <a href="https://www.hackerrank.com/godking_jay" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
 
-  <a href="https://leetcode.com/godkingjay/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
-  </a>
 
-  <a href="https://www.sololearn.com/profile/9696303/" target="_blank">
-    <img src="https://img.shields.io/badge/Sololearn-f20057?style=for-the-badge&logoColor=white"/>
-  </a>
 
-  <a href="https://www.udemy.com/user/jarrian-vince-gloriana-gojar/" target="_blank">
-    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-  </a>
-  
-</div></br>
 
-<h2></h2>
 
-<div align="center">
-  <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
-</div>
+
+
+
 
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
