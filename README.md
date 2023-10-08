@@ -34,12 +34,10 @@
 
 <h2></h2>
 <h2></h2>
-<h2></h2>
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+  <h2 align="center"> <strong>  What i Mostly do? </strong> </h2>
 <div align="center">
-  <h2> <strong>  What i Mostly do? </strong> <img src="./assets/borderseparator.gif"/> </h2>
-  
 </div></br>
 
 <h2></h2>
