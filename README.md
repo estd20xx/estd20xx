@@ -59,8 +59,6 @@
  <!-- <a href="https://namelessnerd.com/" target="_blank">
     <img src="https://wakatime.com/badge/user/018b0e7e-6f88-48df-9a59-5b7be345ce7d.svg" alt="something went wrong" width="540px">
   </a> -->
-
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=namelessnerd)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   
   <h2></h2>
