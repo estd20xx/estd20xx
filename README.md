@@ -75,8 +75,9 @@
   <img align="right" src="https://namelessnerd-namelesssnerd.vercel.app/api?username=NamelesssNerd&theme=radical&show_icons=true&count_private=true" width="47%" alt="stats graph" />
 </div>
 </div> 
-<br/>
 
+<br />
+<br />
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamelesssNerd&custom_title=Namelessnerd's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="namelessnerd's Github Activity Graph" width="100%">
 </div>
