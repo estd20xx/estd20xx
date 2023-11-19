@@ -56,9 +56,9 @@
   <img src="https://namelessnerd-namelesssnerd.vercel.app/api/top-langs?username=NamelesssNerd&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
-  <a href="https://namelessnerd.com/" target="_blank">
-    <img src="https://wakatime.com/badge/user/018b0e7e-6f88-48df-9a59-5b7be345ce7d.svg" alt="something went wrong" width="540px">
-  </a> 
+  <!--- <a href="https://namelessnerd.com/" target="_blank"> --->
+<!--     <img src="https://wakatime.com/badge/user/018b0e7e-6f88-48df-9a59-5b7be345ce7d.svg" alt="something went wrong" width="540px"> -->
+<!--   </a>  -->
   <br>
   
   <h2></h2>
