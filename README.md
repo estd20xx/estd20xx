@@ -56,9 +56,9 @@
   <img src="https://namelessnerd-namelesssnerd.vercel.app/api/top-langs?username=NamelesssNerd&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
- <!-- <a href="https://namelessnerd.com/" target="_blank">
+  <a href="https://namelessnerd.com/" target="_blank">
     <img src="https://wakatime.com/badge/user/018b0e7e-6f88-48df-9a59-5b7be345ce7d.svg" alt="something went wrong" width="540px">
-  </a> -->
+  </a> 
   <br>
   
   <h2></h2>
@@ -71,8 +71,8 @@
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=NamelesssNerd&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <div >
-<!--   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NamelesssNerd&theme=radical" width="47%" alt="streaks graph" /> -->
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NamelesssNerd&theme=radical" alt="streaks graph" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NamelesssNerd&theme=radical" width="47%" alt="streaks graph" />
+<!--     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NamelesssNerd&theme=radical" alt="streaks graph" /> -->
   <img align="right" src="https://namelessnerd-namelesssnerd.vercel.app/api?username=NamelesssNerd&theme=radical&show_icons=true&count_private=true" width="47%" alt="stats graph" />
 </div>
 </div> 
