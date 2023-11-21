@@ -80,7 +80,7 @@
 <br />
 <br />
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamelesssNerd&custom_title=Namelessnerd's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="namelessnerd's Github Activity Graph" width="100%">
+  <img src="https://wakatime.com/share/@namelessnerd/0ea7df27-490e-4f83-9c15-f86d39523236.svg" alt="something went wrong" width="100%">
 </div>
 
 </br>
