@@ -81,7 +81,7 @@
 <br />
 <div align="center">
 <!--   wakatime table here -->
-<!--   <img src="https://wakatime.com/share/@namelessnerd/0ea7df27-490e-4f83-9c15-f86d39523236.svg" alt="something went wrong" width="100%"> -->
+  <img src="https://wakatime.com/share/@namelessnerd/0ea7df27-490e-4f83-9c15-f86d39523236.svg" alt="something went wrong" width="100%">
 </div>
 
 </br>
