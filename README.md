@@ -27,12 +27,12 @@
 <br><br>
 <br><br>
 - 👯 I’m looking to collaborate with other Coder.<br>
-- 🥅 2022 Goals: Learn more about web3.<br>
-  - Blockchain Technology.<br>
-  - Web Development.<br>
-  - App Development.<br>
-  - Software Developer.<br>
-- ⚡ I love to play Guitar and Play Football.😂
+- Stay current with latest web development tools and frameworks.<br>
+- Enhance skills in software architecture, including microservices and containerization..<br>
+- Engage in developer communities, attend conferences, and contribute to open source projects.<br>
+- App Development.<br>
+- Software Developer.<br>
+- Gain foundational knowledge in machine learning and AI for application integration.
 
 <br/>
 <h2></h2>
