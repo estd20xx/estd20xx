@@ -63,7 +63,7 @@
   
   <h2></h2>
 
-
+<!--
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
@@ -72,16 +72,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=NamelesssNerd&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <div >
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NamelesssNerd&theme=radical" width="47%" alt="streaks graph" />
-<!--     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NamelesssNerd&theme=radical" alt="streaks graph" /> -->
   <img align="right" src="https://namelessnerd-namelesssnerd.vercel.app/api?username=NamelesssNerd&theme=radical&show_icons=true&count_private=true" width="47%" alt="stats graph" />
 </div>
 </div> 
 
+
 <br />
 <br />
-<div align="center" width="100%">
-<!--   wakatime table here -->
-</div>
+
   <img src="https://wakatime.com/share/@namelessnerd/44631584-261a-4438-b5fa-5aee6a6d8e33.svg" alt="something went wrong" width="100%">
 
 </br>
@@ -93,7 +91,6 @@
 
 
 ## <h2 align="center"> 😂 Random Programming Jokes</h2>
-<!-- Markdown -->
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react&qColor=%23944bcc&aColor=%23bbdb51" width="100%"/>
 
@@ -130,5 +127,7 @@
 </div>
 
 
+
 <img src="./assets/animated-wave.svg" width="100%" />
 
+-->
