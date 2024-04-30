@@ -63,7 +63,6 @@
   
   <h2></h2>
 
-<!--
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
@@ -80,7 +79,7 @@
 <br />
 <br />
 
-  <img src="https://wakatime.com/share/@namelessnerd/44631584-261a-4438-b5fa-5aee6a6d8e33.svg" alt="something went wrong" width="100%">
+<img src="https://wakatime.com/share/@namelessnerd/44631584-261a-4438-b5fa-5aee6a6d8e33.svg" alt="something went wrong" width="100%">
 
 </br>
 
@@ -129,5 +128,3 @@
 
 
 <img src="./assets/animated-wave.svg" width="100%" />
-
--->
