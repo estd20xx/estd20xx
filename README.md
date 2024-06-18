@@ -79,7 +79,7 @@
 <br />
 <br />
 
-<img src="https://wakatime.com/share/@namelessnerd/44631584-261a-4438-b5fa-5aee6a6d8e33.svg" alt="something went wrong" width="100%">
+<img src="https://wakatime.com/share/@namelessnerd/2c54b2b6-6c89-4e11-a008-e6ff2ce0b82b.svg" alt="Internet problem" width="100%">
 
 </br>
 
