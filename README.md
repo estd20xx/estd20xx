@@ -66,26 +66,12 @@
 </div>
 </div> 
 
-
-<br />
-<br />
-
 <img src="https://wakatime.com/share/@namelessnerd/2c54b2b6-6c89-4e11-a008-e6ff2ce0b82b.svg" alt="Internet problem" width="100%">
 
 </br>
 
-<h2></h2>
-
-
-
-
-
 ## <h2 align="center"> 😂 Random Programming Jokes</h2>
-
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react&qColor=%23944bcc&aColor=%23bbdb51" width="100%"/>
-
-
-
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
@@ -115,7 +101,4 @@
     <img src="./assets/logos/neon-discord.png" width="48px" alt="Discord"/>
   </a>
 </div>
-
-
-
 <img src="./assets/animated-wave.svg" width="100%" />
