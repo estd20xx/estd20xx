@@ -22,7 +22,7 @@
 <img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20Visits&color=129e00&style=plastic"/>
 </div>
 
-<!---
+<!--- Remove this line
 <h2></h2>
 
 <img align="right"  alt="Coding" width="45%" src="./assets//catCooding.gif">
