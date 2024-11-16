@@ -64,7 +64,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=NamelesssNerd&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <div >
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NamelesssNerd&theme=radical" width="47%" alt="streaks graph" />
-  <img align="right" src="https://namelessnerd-namelesssnerd.vercel.app/api?username=NamelesssNerd&theme=radical&show_icons=true&count_private=true" width="47%" alt="stats graph" />
+  <img align="right" src="https://namelessnerd.vercel.app/api?username=NamelesssNerd&theme=radical&show_icons=true&count_private=true" width="47%" alt="stats graph" />
 </div>
 </div> 
 
