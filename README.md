@@ -1,4 +1,4 @@
-<!---
+
 <a href="https://profile.codersrank.io/user/namelesssnerd/">
 <img src="./assets/coodingNight.gif" align="middle" alt="Banner" width="100%"/>
 </a>
@@ -15,14 +15,14 @@
 </div>
 
 <img src="./assets/borderseparator.gif" width="100%"/>
--->
+
 <div align="center">
   <p><b>Profile Views</b></p>
   <!-- <img src="https://profile-counter.glitch.me/NamelesssNerd/count.svg" /> -->
 <img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20Visits&color=129e00&style=plastic"/>
 </div>
 
-<!--- Remove this line
+
 <h2></h2>
 
 <img align="right"  alt="Coding" width="45%" src="./assets//catCooding.gif">
