@@ -1,4 +1,4 @@
-<!-----
+
 <a href="https://profile.codersrank.io/user/namelesssnerd/">
 <img src="./assets/coodingNight.gif" align="middle" alt="Banner" width="100%"/>
 </a>
@@ -24,7 +24,7 @@
 
 
 <h2></h2>
-<!---
+
 <img align="right"  alt="Coding" width="45%" src="./assets//catCooding.gif">
 <br><br>
 <br><br>
