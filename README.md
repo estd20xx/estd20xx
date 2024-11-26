@@ -5,7 +5,7 @@
 <img src="./assets/borderseparator.gif" width="100%"/>
 
 
-
+<!---
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
   <a href="https://profile.codersrank.io/user/namelesssnerd/">
@@ -22,6 +22,7 @@
 <img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20Visits&color=129e00&style=plastic"/>
 </div>
 
+<!---
 
 <h2></h2>
 
