@@ -1,3 +1,4 @@
+
 <a href="https://profile.codersrank.io/user/namelesssnerd/">
 <img src="./assets/coodingNight.gif" align="middle" alt="Banner" width="100%"/>
 </a>
@@ -12,6 +13,7 @@
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 
+<img src="./assets/borderseparator.gif" width="100%"/>
 <img src="./assets/borderseparator.gif" width="100%"/>
 
 <div align="center">
