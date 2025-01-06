@@ -5,7 +5,6 @@
 <img src="./assets/borderseparator.gif" width="100%"/>
 
 
-<!
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
   <a href="https://profile.codersrank.io/user/namelesssnerd/">
@@ -16,13 +15,14 @@
 
 <img src="./assets/borderseparator.gif" width="100%"/>
 
+
 <div align="center">
   <p><b>Profile Views</b></p>
-  <!-- <img src="https://profile-counter.glitch.me/NamelesssNerd/count.svg" /> -->
-<img align="center" src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20Visits&color=129e00&style=plastic"/>
+  <img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20Visits&color=129e00&style=plastic" align="center" />
+<!--   <img src="https://profile-counter.glitch.me/NamelesssNerd/count.svg" /> -->
 </div>
 
-<!---
+
 
 <h2></h2>
 
@@ -62,10 +62,10 @@
 
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=NamelesssNerd&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=estd20xx&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <div >
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NamelesssNerd&theme=radical" width="47%" alt="streaks graph" />
-  <img align="right" src="https://namelessnerd.vercel.app/api?username=NamelesssNerd&theme=radical&show_icons=true&count_private=true" width="47%" alt="stats graph" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=estd20xx&theme=radical" width="47%" alt="streaks graph" />
+  <img align="right" src="https://namelessnerd.vercel.app/api?username=estd20xx&theme=radical&show_icons=true&count_private=true" width="47%" alt="stats graph" />
 </div>
 </div> 
 
