@@ -5,7 +5,7 @@
 <img src="./assets/borderseparator.gif" width="100%"/>
 
 
-
+<!
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
   <a href="https://profile.codersrank.io/user/namelesssnerd/">
@@ -22,7 +22,7 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20Visits&color=129e00&style=plastic"/>
 </div>
 
-
+<!---
 
 <h2></h2>
 
@@ -69,7 +69,7 @@
 </div>
 </div> 
 
-<img src="https://wakatime.com/share/@namelessnerd/2c54b2b6-6c89-4e11-a008-e6ff2ce0b82b.svg" alt="Internet problem" width="100%">
+<img src="https://wakatime.com/share/@namelessnerd/13d617e5-9687-4f33-8c4a-d9fe748aba7e.svg" alt="Internet problem" width="100%">
 
 </br>
 
