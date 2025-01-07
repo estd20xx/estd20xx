@@ -97,7 +97,7 @@
     <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
   </a>
   &nbsp
-  <a href="https://www.linkedin.com/in/sushant-khadka5/" target="_blank">
+  <a href="https://www.linkedin.com/in/namelessnerd/" target="_blank">
     <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
   </a>
   &nbsp
