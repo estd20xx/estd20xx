@@ -18,12 +18,11 @@
 
 <div align="center">
   <p><b>Profile Views</b></p>
-  <img src="https://counter.namelessnerd.com/v1/estd20xx" align="center" />
+<!--   <img src="https://counter.namelessnerd.com/v1/estd20xx" align="center" /> -->
   <img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20Visits&color=129e00&style=plastic" align="center" />
 <!--   <img src="https://profile-counter.glitch.me/NamelesssNerd/count.svg" /> -->
 </div>
 
-<!---
 
 
 <h2></h2>
