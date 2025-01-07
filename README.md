@@ -70,7 +70,7 @@
 </div>
 </div> 
 
-<img src="https://wakatime.com/share/@namelessnerd/13d617e5-9687-4f33-8c4a-d9fe748aba7e.svg" alt="Internet problem" width="100%">
+<img src="https://wakatime.com/share/@namelessnerd/925061c6-60ec-4e27-9538-83c28ef822bd.svg" alt="Internet problem" width="100%">
 
 </br>
 
